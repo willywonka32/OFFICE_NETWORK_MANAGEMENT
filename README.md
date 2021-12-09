@@ -1,1 +1,3 @@
 # Office_Networking_management
+
+THIS IS A SIMPLE NETWORKING PLAN OF AN OFFICE MANAGEMENT.
